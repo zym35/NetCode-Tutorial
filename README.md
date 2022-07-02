@@ -1,6 +1,6 @@
 # Unity网络相关基础教程
 视频链接：
-- NetCode for GameObjects:
+- NetCode for GameObjects: https://www.bilibili.com/video/BV1ya411H7aw/
 
 辅助Package安装git URL: 
 - Parallel Sync: https://github.com/VeriorPies/ParrelSync.git?path=/ParrelSync
